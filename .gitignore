@@ -1,0 +1,22 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+._.DS_Store
+src/._.DS_Store
+
+# checkstyle
+.checkstyle
+target/
+
+# Mergetool
+*.orig
